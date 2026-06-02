@@ -1,4 +1,4 @@
 ## System design for Student Academic tracker
 
 
-![SystemDesign](image plan.png)
+![SystemDesign](image plan.PNG)
